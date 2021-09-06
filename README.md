@@ -6,7 +6,7 @@
  <img src="https://img.shields.io/static/v1?label=Angola&message=App&color=FFA800&labelColor=000000" alt="angola-accordion" />
 </p>
 
-This app was create with the intention no show up some curiosity about Angola.
+This app was created with the intention no show up some curiosity about Angola.
 
 
 <h1 align="center">
